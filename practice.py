@@ -398,7 +398,7 @@ print( numbers2 )
 
     # To remove duplicates in a list
 numbers = [23, 34, 7, 97, 683, 47, 78, 78, 73, 73]
-uniques = []
+uniques = 
 for number in numbers:
     if number not in uniques:
         uniques.append(number)
