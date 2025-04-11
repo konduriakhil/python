@@ -16,5 +16,5 @@ def finding_max_no(numbers):
 
 # numbers = [2, 1]
 # max = finding_max_no(numbers)
-# print(max)
+# print(max) 
 # print(f'The maximum no is {finding_max_no()}')
