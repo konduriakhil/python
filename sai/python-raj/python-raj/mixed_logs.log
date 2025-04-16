@@ -1,0 +1,8 @@
+2025-03-01 16:30:00,100 INFO [Init] - Application started.
+2025-03-01 16:31:00,200 DEBUG [Auth] - Authenticating user 'bob'.
+2025-03-01 16:31:05,300 ERROR [Auth] - Authentication failed for user 'bob'. Exception: ValueError('Invalid credentials').
+2025-03-01 16:32:00,400 INFO [Process] - Processing data batch 42.
+2025-03-01 16:32:30,500 WARNING [Process] - Data batch 42 processing delayed due to network latency.
+2025-03-01 16:33:00,600 INFO [Process] - Data batch 42 processed successfully.
+2025-03-01 16:34:00,700 DEBUG [Cleanup] - Cleanup routine started.
+2025-03-01 16:34:10,800 INFO [Cleanup] - Cleanup completed.

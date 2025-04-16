@@ -1,0 +1,5 @@
+2025-03-01 08:00:00,001 INFO: [Startup] - System initialization complete.
+2025-03-01 08:05:00,002 DEBUG: [Service] - Service X is starting.
+2025-03-01 08:10:00,003 ERROR: [Service] - Service X failed to start.
+2025-03-01 08:15:00,004 WARNING: [Health] - CPU usage high.
+2025-03-01 08:20:00,005 INFO: [Shutdown] - System shutting down.

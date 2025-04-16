@@ -1,0 +1,5 @@
+2025-03-01 17:00:00,800 INFO - System check initiated.
+2025-03-01 17:00:01,900 WARN - Missing module information.
+2025-03-01 17:00:03,000 ERROR - Module 'X' failed to start.
+Some random text not following the pattern.
+2025-03-01 17:00:04,100 INFO [System] - System check completed.
