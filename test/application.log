@@ -1,0 +1,6 @@
+INFO Starting server
+DEBUG Configuration loaded
+ERROR Connection failed
+INFO User logged in
+ERROR Timeout occurred
+ERROR Network Failure
