@@ -1,0 +1,5 @@
+2025-04-19 13:20:13,864 - ERROR - File akhil.txt not found
+2025-04-19 13:20:17,355 - ERROR - File akhil.txt not found
+2025-04-19 13:25:39,589 - ERROR -  unexpected error arised as division by zero
+2025-04-19 13:27:47,437 - ERROR - division by zero
+2025-04-19 13:28:19,894 - ERROR -  unexpected error arised - division by zero

@@ -1,0 +1,4 @@
+INFO 2024-04-17 10:00:00 Starting service
+ERROR 2024-04-17 10:01:00 Failed to connect to DB
+WARNING 2024-04-17 10:02:00 High memory usage
+ERROR 2024-04-17 10:03:00 Timeout occurred
